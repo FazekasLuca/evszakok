@@ -11,4 +11,14 @@ img:hover{
 h1{
     text-align: center;
 }
-
+.kepek{
+    float: left;
+}
+h3{
+    text-align: center;
+}
+.cucc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
