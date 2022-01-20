@@ -3,7 +3,7 @@ img{
     margin: 30px;
     transition: 1;
 }
-img.hover{
+img:hover{
     width: 500px;
     margin: 0;
 }
