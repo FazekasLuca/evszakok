@@ -12,12 +12,10 @@ h1{
 }
 .kepek{
     float: left;
-}
-h3{
-    text-align: center;
-}
-.cucc{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+h3{
+    text-align: center;
 }
